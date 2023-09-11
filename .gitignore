@@ -1,0 +1,5 @@
+node_modules
+Fundamentos
+esnext
+node/*
+!node/projeto
